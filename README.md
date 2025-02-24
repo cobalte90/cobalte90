@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Stepan, Data Analyst
 ## I'm actively looking for a job or internship
-## Contact me: <a href='https://t.me/wexquasexort123'>Telegram</a>
+## Contact me: <a href='https://t.me/wexquasexort123'>Telegram</a> or email stepanbaskakov-178@yandex.ru
 
 <!--
 **cobalte90/cobalte90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
