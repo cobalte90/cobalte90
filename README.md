@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Stepan, Data Analyst
-## I'm actively looking for a job or internship
+## I'm actively looking for a job or internship 💻
 ## Contact me: <a href='https://t.me/wexquasexort123'>Telegram</a> or email stepanbaskakov-178@yandex.ru
 
 <!--
